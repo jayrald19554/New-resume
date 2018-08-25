@@ -10,6 +10,7 @@ div
     height:40px;
     width: 98.50%;
     background-color: 243075;
+	background-image: url(../Resume/Background.jpg);
     margin-bottom: 10px
     }
 /*.container{
@@ -61,8 +62,7 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-	background-image: url(../Resume/Background.jpg);
-    background-color: #E3EDD8;
+    background-color: CACCC3;
     }
 
 /*.left
