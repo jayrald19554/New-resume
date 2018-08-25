@@ -9,7 +9,7 @@ div
     z-index: 1;
     height:40px;
     width: 98.50%;
-    background-color: 0FCFD5;
+    background-color: 243075;
     margin-bottom: 10px
     }
 /*.container{
@@ -21,6 +21,7 @@ div
 	padding-right: 40px;
 	box-sizing: border-box;}*/
 #name {
+	
     float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
@@ -60,6 +61,7 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
+	background-image: url(../Resume/Background.jpg);
     background-color: #E3EDD8;
     }
 
@@ -79,11 +81,12 @@ a:hover {
     clear:both;
 	width: 99.50%;
     position: relative;
-    background-color: 0FCFD5;
+
     }
 
 h3
 {
+	
     text-decoration: underline;
     }
 
