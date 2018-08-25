@@ -8,11 +8,18 @@ div
     position: fixed;
     z-index: 1;
     height:40px;
-    width: 98%;
+    width: 98.50%;
     background-color: 0FCFD5;
     margin-bottom: 10px
     }
-
+/*.container{
+	width: 940px
+	margin-left: auto;
+	margin-right: auto;
+	background-color: C1C2A9;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;}*/
 #name {
     float:left;
 	margin-left: 20px;
@@ -72,7 +79,7 @@ a:hover {
     clear:both;
 	width: 99.50%;
     position: relative;
-    background-color: #C1E3E1;
+    background-color: 0FCFD5;
     }
 
 h3
