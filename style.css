@@ -4,7 +4,7 @@ div
     border-radius: 5px;
     }
 #header
-{
+{	
     position: fixed;
     z-index: 1;
     height:40px;
@@ -12,6 +12,7 @@ div
     background-color: 243075;
 	background-image: url(../New-resume/new.jpg);
     margin-bottom: 10px
+	font-weight:bold
     }
 /*.container{
 	width: 940px
