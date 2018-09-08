@@ -7,12 +7,12 @@ div
 {	
     position: fixed;
     z-index: 1;
+	
     height:40px;
     width: 98.50%;
     background-color: 243075;
 	background-image: url(../New-resume/new.jpg);
     margin-bottom: 10px
-	font-weight:bold
     }
 /*.container{
 	width: 940px
@@ -63,7 +63,7 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-    background-color: D2D3D0;
+    background-color: B6A4A0;
     }
 
 /*.left
